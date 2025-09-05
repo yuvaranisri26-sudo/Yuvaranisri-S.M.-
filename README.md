@@ -1,6 +1,6 @@
-# Digital portfolio
+# DIGITAL PORTFOLIO
 
 A Pen created on CodePen.
 
-Original URL: [https://codepen.io/Yuvaranisri/pen/azvXyVr](https://codepen.io/Yuvaranisri/pen/azvXyVr).
+Original URL: [https://codepen.io/Yuvaranisri/pen/OPydQLz](https://codepen.io/Yuvaranisri/pen/OPydQLz).
 
